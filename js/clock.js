@@ -1,3 +1,5 @@
+//메인 화면 시계
+
 const clock = document.querySelector("h2#clock");
 
 function getClock() {
